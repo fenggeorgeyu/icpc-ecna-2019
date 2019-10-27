@@ -6,7 +6,7 @@ Problem B
 
 In addition, due to uneven terrain, it is possible that traveling a road in one direction may take longer than traveling the road in the opposite direction.
 
-![Figure 1: Sample junction.](img-0001.png)
+![Figure 1: Sample junction.](problem_b/img-0001.png)
 
 ![Figure 2: Map of Sample Input 1.](img-0002.png)
 
