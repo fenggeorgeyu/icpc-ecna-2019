@@ -23,7 +23,7 @@ Given a layout of the roads, turning restrictions on the tractor and a destinati
 Input
 Input starts with a line containing four integers 𝑛 𝑑 𝛼1 𝛼2, where 𝑛 (2≤𝑛≤1000) is the number of junctions (numbered 1 to 𝑛), 𝑑 is the junction containing the bird box to visit, and 𝛼1 and 𝛼2 (0 < 𝛼1, 𝛼2 ≤ 180) specify the allowed turning angles in degrees (see Figure 3). The biostation is at junction 1 and is where Ollie’s journey both starts and ends. Following this are 𝑛 lines specifying the dirt roads. Each of these lines has the form 𝑚 𝑑1 𝑡1 𝑎1 𝑑2 𝑡2 𝑎2 … 𝑑𝑚 𝑡𝑚 𝑎𝑚. The 𝑖th of these lines indicates that there are 𝑚 dirt roads intersecting at junction 𝑖. The first of these roads ends at junction 𝑑1, needs 𝑡1 minutes to travel and leaves junction 𝑖 at angle 𝑎1 (where 0 is east, 90 is north, etc.); the second of these roads ends at junction 𝑑2, needs 𝑡2 minutes to travel and leaves junction 𝑖 at angle 𝑎2, etc. The maximum value of 𝑚 for any junction is 5 and the maximum value for any 𝑡𝑖 is 20.
 
-![Figure 3: Turning angle specification.]()
+![Figure 3: Turning angle specification.](img-0003.png)
 
 
 Output
